@@ -1,13 +1,13 @@
-## How to start it and build release ##
+First of all, make sure to install all dependencies:
 
-For the first time:
+`npm install`
 
-`npm install && npm start`
+## How to run it and build executable ##
 
-Afterwards, just run:
+To run it:
 
 `npm start`
 
-Release build:
+Build a windows release:
 
-`npm run build:release`
+`npm run win:release`
