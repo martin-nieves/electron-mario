@@ -5,7 +5,7 @@
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
-    "build:prod": "electron-packager . Mario --out=release-builds --platform=win32 --arch=ia32 --overwrite"
+    "build:release": "electron-packager . Mario --out=release-builds --platform=win32 --arch=ia32 "
   },
   "keywords": [],
   "author": "",

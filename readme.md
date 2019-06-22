@@ -10,4 +10,4 @@ Afterwards, just run:
 
 Release build:
 
-`npm run build:prod`
+`npm run build:release`
